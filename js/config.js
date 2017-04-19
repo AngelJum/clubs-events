@@ -1,6 +1,6 @@
 // Your Google Drive Spreadsheet URL
 var sheetID = "1OBrEsYQuEuV_lKUmTH6_zWSWgXD33AJzlEy-JBjG_I4";
-var sheetURL = "https://spreadsheets.google.com/feeds/cells/"+sheetID+"/ohaibtm/public/values?alt=json";
+var sheetURL = "https://spreadsheets.google.com/feeds/cells/"1OBrEsYQuEuV_lKUmTH6_zWSWgXD33AJzlEy-JBjG_I4"/ohaibtm/public/values?alt=json";
 
 // Name of column and what element classname to insert the data into.
 var dataKeys = {
